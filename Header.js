@@ -1,6 +1,6 @@
 import React from 'react';
 
-class header extends React.Component {
+class Header extends React.Component {
     getStyle = () => {
         return {
             background: "#000",
